@@ -1,10 +1,5 @@
 # 2048
 
-[![Open issues][issues-badge]][issues-url]
-[![CI][lint-badge]][lint-url]
-[![CI][test-badge]][test-url]
-[![TypeScript][typescript-badge]][typescript-url]
-
 [![](.docs/demo.gif)](https://Priya-753.github.io/2048/)
 
 ## [Play 2048 💥]
