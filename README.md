@@ -1,6 +1,6 @@
 # 2048
 
-[![](.docs/demo.gif)](https://Priya-753.github.io/2048/)
+[![](.docs/demo.gif)](https://Priya-753.github.io/2048-in-react/)
 
 ## [Play 2048 💥]
 
